@@ -24,9 +24,6 @@ as well as
 1. Decide whether you would like to use a Title
 1. Define the ISBN-10 or ISBN-13 of the book.
 
-Douban Book Image插件基于CurrentlyReading插件开发，使用豆瓣图书ISBN数据库，使它更适合中文图书。
-
-这个插件的功能非常简单，在你的博客边栏展示你正在看的图书，仅仅需要ISBN（你可以在书的条形码处找到它）。你可以用它来分享自己喜欢的，或者正在阅读的书。
 
 == Installation ==
 **Install**
