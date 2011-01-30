@@ -17,6 +17,9 @@ Supplying an [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Num
 [Live Demo]
 http://lab.nssa.cn/wordpress/
 
+[Plugin Homepage]
+http://nssa.cn/2011/01/douban-book-image/
+
 Using the Widget you can choose whether to:
 
 * Suppress the List Marker (selected by default, uses internal CSS)
