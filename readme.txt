@@ -5,14 +5,15 @@ Requires at least: 2.8
 Tested up to: 3.0.4
 Stable tag: trunk
 
-Just another Currently Reading Plugin, and more suitable for chinese books. Provides a cool books widget in you sidebar, and displays a cover image of a book with a link to Douban Books Webpage based on a supplied ISBN-10 or ISBN-13.
+Just another Currently Reading Plugin, and more suitable for chinese books. 
 
 == Description ==
-Just another Currently Reading Plugin. Show people what you are reading now.
+Just another Currently Reading Plugin. Provides a cool books widget in you sidebar, and displays a cover image of a book with a link to Douban Books Webpage based on a supplied ISBN-10 or ISBN-13. Show people what you are reading now.
 
 This plugin is for those books that cannot found the cover image in the Google Books library. And it is more suitable for chinese books.
 
 Supplying an [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) (and, optionally, a Title) will display a cover image of the relevant book with a link to that book's page on [Douban Books](http://book.douban.com/).
+
 
 Using the Widget you can choose whether to:
 
