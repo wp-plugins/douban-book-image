@@ -5,7 +5,7 @@ Requires at least: 2.8
 Tested up to: 3.0.4
 Stable tag: trunk
 
-Just another Currently Reading Plugin, and more suitable for chinese books. 
+Display a Book Image widget using an image from the Douban Books, you can use it to share a book you are currently reading.
 
 == Description ==
 Just another Currently Reading Plugin. Provides a cool books widget in you sidebar, and displays a cover image of a book with a link to Douban Books Webpage based on a supplied ISBN-10 or ISBN-13. Show people what you are reading now.
