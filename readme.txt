@@ -14,6 +14,8 @@ This plugin is for those books that cannot found the cover image in the Google B
 
 Supplying an [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) (and, optionally, a Title) will display a cover image of the relevant book with a link to that book's page on [Douban Books](http://book.douban.com/).
 
+[Live Demo]
+http://lab.nssa.cn/wordpress/
 
 Using the Widget you can choose whether to:
 
