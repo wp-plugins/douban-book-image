@@ -26,6 +26,7 @@ as well as
 1. Decide whether you would like to use a Title
 1. Define the ISBN-10 or ISBN-13 of the book.
 
+Thanks to the CurrentlyReading plugin.
 
 == Installation ==
 **Install**
